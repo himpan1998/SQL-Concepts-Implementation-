@@ -1,0 +1,22 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "SQL Implementation and Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/himpan1998/SQL-Concepts-Implementation-.git"
+  },
+  "keywords": [
+    "SQL"
+  ],
+  "author": "Himanshu Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himpan1998/SQL-Concepts-Implementation-/issues"
+  },
+  "homepage": "https://github.com/himpan1998/SQL-Concepts-Implementation-#readme"
+}
